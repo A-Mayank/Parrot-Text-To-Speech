@@ -46,5 +46,5 @@ datasets/
 .vscode/
 .idea/
 
-# 
+# ignore checkpoints
 checkpoints_v3
