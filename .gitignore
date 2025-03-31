@@ -48,3 +48,5 @@ datasets/
 
 # ignore checkpoints
 checkpoints_v3
+checkpoints_v3/
+checkpoints_v3/**
