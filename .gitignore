@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints (but stored in LFS)
+.checkpoints/
+checkpoints/
+!checkpoints/  # Ensure the directory itself is tracked
+
+# Ignore all .pth files except speaker embeddings
+*.pth
+!speaker_embeddings.pth
+
+# Ignore virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore user-specific data
+user_data/
+user_*.pth  # Ignore user .pth files
+
+# Logs
+logs/
+*.log
+
+# Ensure .h5 files are tracked
+!*.h5
