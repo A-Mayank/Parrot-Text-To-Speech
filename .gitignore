@@ -26,6 +26,12 @@ data/
 *.pth
 !speaker_embeddings.pth
 
+
+# ignore checkpoints
+checkpoints_v3
+checkpoints_v3/
+checkpoints_v3/**
+
 # Ignore user-generated .h5 but allow specific ones
 *.h5
 !model_checkpoints/*.h5
@@ -41,6 +47,8 @@ wandb/
 cache/
 results/
 datasets/
+outputs_v3/
+outputs_v3/**
 
 # Ignore VS Code and other editor configs
 .vscode/
