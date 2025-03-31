@@ -19,8 +19,8 @@ Parrot TTS is a powerful text-to-speech (TTS) engine built upon OpenVoice, featu
 ## Installation
 ```bash
 # Clone the repository
-git clone  https://github.com/DebatableMiracle/Parrot-Text-To-Speech.git
-cd arrot-Text-To-Speech
+git clone https://github.com/DebatableMiracle/Parrot-Text-To-Speech.git
+cd Parrot-Text-To-Speech
 
 # Install dependencies
 pip install -r requirements.txt
@@ -32,10 +32,7 @@ streamlit run app.py
 ```
 
 ## Demo Video 🎥
-<video width="640" height="360" controls>
-  <source src="demo/demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/IK6vp_vwXpw)
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
@@ -45,3 +42,4 @@ This project is licensed under the MIT License.
 
 ---
 🚀 **Experience natural, expressive TTS with Parrot TTS!**
+
