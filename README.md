@@ -19,8 +19,8 @@ Parrot TTS is a powerful text-to-speech (TTS) engine built upon OpenVoice, featu
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/parrot-tts.git
-cd parrot-tts
+git clone  https://github.com/DebatableMiracle/Parrot-Text-To-Speech.git
+cd arrot-Text-To-Speech
 
 # Install dependencies
 pip install -r requirements.txt
@@ -45,4 +45,3 @@ This project is licensed under the MIT License.
 
 ---
 🚀 **Experience natural, expressive TTS with Parrot TTS!**
-
