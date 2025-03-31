@@ -32,7 +32,7 @@ streamlit run app.py
 ```
 
 ## Demo Video 🎥
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/IK6vp_vwXpw)
+[demo.webm](https://github.com/user-attachments/assets/b46ac6ab-518f-4efd-a30e-b2ea281464e8)
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
