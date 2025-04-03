@@ -1,7 +1,7 @@
 # Parrot TTS
 
 Parrot TTS is a powerful text-to-speech (TTS) engine built upon OpenVoice, featuring voice cloning and advanced control over speech parameters such as emotion, speed, and accents. It allows for highly customizable and expressive speech synthesis, making it ideal for applications requiring natural and dynamic voice output.
-
+Made in a day by team of 4 for IEEE hackathon
 ## Features
 - 🎭 **Emotion Control**: Choose from multiple speaking styles like `friendly`, `cheerful`, `excited`, `sad`, `angry`, `terrified`, `shouting`, and `whispering`.
 - ⚡ **Speed Control**: Adjust the speaking speed using the `speed` parameter (e.g., `0.9` for a slightly slower pace).
